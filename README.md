@@ -8,20 +8,6 @@ Solving **one LeetCode SQL problem every day for 100 days** and uploading the ac
 | 🏁 **End Date** | 08 October 2026 |
 | 📌 **Platform** | [LeetCode](https://leetcode.com/) |
 | 📸 **Proof** | One screenshot per day (accepted submission) |
-| 📈 **Progress** | 0 / 100 days completed |
-
----
-
-## 📊 Progress Overview
-
-| Days | Status |
-|------|--------|
-| Day 1 – Day 25 | ⬜ In Progress |
-| Day 26 – Day 50 | ⬜ Upcoming |
-| Day 51 – Day 75 | ⬜ Upcoming |
-| Day 76 – Day 100 | ⬜ Upcoming |
-
-> Update this table as milestones are completed.
 
 ---
 
@@ -527,9 +513,6 @@ Solving **one LeetCode SQL problem every day for 100 days** and uploading the ac
 
 ---
 
-
-## ✅ Legend
-- ✅ Completed &nbsp; | &nbsp; ⬜ Pending &nbsp; | &nbsp; ❌ Missed
 
 ## 🎯 Goal
 Stay consistent with daily SQL practice, sharpen query-writing skills (joins, window functions, aggregations, subqueries), and build a public, verifiable record of progress.
