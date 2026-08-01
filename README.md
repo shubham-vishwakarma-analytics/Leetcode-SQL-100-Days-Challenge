@@ -1,6 +1,6 @@
 # 🗓️ 100 Days of SQL — LeetCode Challenge
 
-Solving **one LeetCode SQL problem every day for 100 days** and uploading the accepted-solution screenshot as daily proof of progress.
+Solving **one LeetCode SQL problem every day for 100 days** and uploading the accepted-solution screenshot as daily proof of progre
 
 | | |
 |---|---|
