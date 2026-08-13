@@ -1,521 +1,841 @@
-# 🗓️ 100 Days of SQL — LeetCode Challenge
+# 🚀 100 Days of Machine Learning — Challenge
 
-Solving **one LeetCode SQL problem every day for 100 days** and uploading the accepted-solution screenshot as daily proof of 
+Welcome to my **100 Days of Machine Learning Challenge** repository! This repo documents my daily ML practice — notebooks, mini projects, and output screenshots — built one day at a time.
 
 | | |
 |---|---|
-| 📅 **Start Date** | 11 July 2026 |
-| 🏁 **End Date** | 18 October 2026 |
-| 📌 **Platform** | [LeetCode](https://leetcode.com/u/shubham-vishwakarma-analytics/) |
-| 📸 **Proof** | One screenshot per day (accepted submission) |
+| 📅 **Start Date** | 01 May 2026 |
+| 🏁 **End Date** | 08 August 2026 |
+| 📌 **Focus** | Python, ML algorithms, EDA, model building & evaluation |
+| 📸 **Proof** | Notebook + output screenshot for each day |
+
+The goal of this challenge is to strengthen:
+- Machine Learning concepts
+- Python implementation skills
+- Data preprocessing techniques
+- Model building & evaluation
+- Real-world project experience
 
 ---
 
 ## 📅 Daily Progress
 
-## Day 1 - 11 July 2026
-![SQL Output](screenshots/2026-07-11_Day001.png)
+## Day 1 - 01 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-01_ML_001.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-01_ML_001.png)
 
 ---
 
-## Day 2 - 12 July 2026
-![SQL Output](screenshots/2026-07-12_Day002.png)
+## Day 2 - 02 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-02_ML_002.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-02_ML_002.png)
 
 ---
 
-## Day 3 - 13 July 2026
-![SQL Output](screenshots/2026-07-13_Day003.png)
+## Day 3 - 03 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-03_ML_003.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-03_ML_003.png)
 
 ---
 
-## Day 4 - 14 July 2026
-![SQL Output](screenshots/2026-07-14_Day004.png)
+## Day 4 - 04 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-04_ML_004.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-04_ML_004.png)
 
 ---
 
-## Day 5 - 15 July 2026
-![SQL Output](screenshots/2026-07-15_Day005.png)
+## Day 5 - 05 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-05_ML_005.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-05_ML_005.png)
 
 ---
 
-## Day 6 - 16 July 2026
-![SQL Output](screenshots/2026-07-16_Day006.png)
+## Day 6 - 06 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-06_ML_006.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-06_ML_006.png)
 
 ---
 
-## Day 7 - 17 July 2026
-![SQL Output](screenshots/2026-07-17_Day007.png)
+## Day 7 - 07 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-07_ML_007.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-07_ML_007.png)
 
 ---
 
-## Day 8 - 18 July 2026
-![SQL Output](screenshots/2026-07-18_Day008.png)
+## Day 8 - 08 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-08_ML_008.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-08_ML_008.png)
 
 ---
 
-## Day 9 - 19 July 2026
-![SQL Output](screenshots/2026-07-19_Day009.png)
+## Day 9 - 09 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-09_ML_009.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-09_ML_009.png)
 
 ---
 
-## Day 10 - 20 July 2026
-![SQL Output](screenshots/2026-07-20_Day010.png)
+## Day 10 - 10 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-10_ML_010.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-10_ML_010.png)
 
 ---
 
-## Day 11 - 21 July 2026
-![SQL Output](screenshots/2026-07-21_Day011.png)
+## Day 11 - 11 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-11_ML_011.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-11_ML_011.png)
 
 ---
 
-## Day 12 - 22 July 2026
-![SQL Output](screenshots/2026-07-22_Day012.png)
+## Day 12 - 12 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-12_ML_012.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-12_ML_012.png)
 
 ---
 
-## Day 13 - 23 July 2026
-![SQL Output](screenshots/2026-07-23_Day013.png)
+## Day 13 - 13 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-13_ML_013.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-13_ML_013.png)
 
 ---
 
-## Day 14 - 24 July 2026
-![SQL Output](screenshots/2026-07-24_Day014.png)
+## Day 14 - 14 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-14_ML_014.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-14_ML_014.png)
 
 ---
 
-## Day 15 - 25 July 2026
-![SQL Output](screenshots/2026-07-25_Day015.png)
+## Day 15 - 15 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-15_ML_015.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-15_ML_015.png)
 
 ---
 
-## Day 16 - 26 July 2026
-![SQL Output](screenshots/2026-07-26_Day016.png)
+## Day 16 - 16 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-16_ML_016.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-16_ML_016.png)
 
 ---
 
-## Day 17 - 27 July 2026
-![SQL Output](screenshots/2026-07-27_Day017.png)
+## Day 17 - 17 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-17_ML_017.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-17_ML_017.png)
 
 ---
 
-## Day 18 - 28 July 2026
-![SQL Output](screenshots/2026-07-28_Day018.png)
+## Day 18 - 18 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-18_ML_018.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-18_ML_018.png)
 
 ---
 
-## Day 19 - 29 July 2026
-![SQL Output](screenshots/2026-07-29_Day019.png)
+## Day 19 - 19 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-19_ML_019.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-19_ML_019.png)
 
 ---
 
-## Day 20 - 30 July 2026
-![SQL Output](screenshots/2026-07-30_Day020.png)
+## Day 20 - 20 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-20_ML_020.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-20_ML_020.png)
 
 ---
 
-## Day 21 - 31 July 2026
-![SQL Output](screenshots/2026-07-31_Day021.png)
+## Day 21 - 21 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-21_ML_021.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-21_ML_021.png)
 
 ---
 
-## Day 22 - 01 August 2026
-![SQL Output](screenshots/2026-08-01_Day022.png)
+## Day 22 - 22 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-22_ML_022.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-22_ML_022.png)
 
 ---
 
-## Day 23 - 02 August 2026
-![SQL Output](screenshots/2026-08-02_Day023.png)
+## Day 23 - 23 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-23_ML_023.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-23_ML_023.png)
 
 ---
 
-## Day 24 - 03 August 2026
-![SQL Output](screenshots/2026-08-03_Day024.png)
+## Day 24 - 24 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-24_ML_024.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-24_ML_024.png)
 
 ---
 
-## Day 25 - 04 August 2026
-![SQL Output](screenshots/2026-08-04_Day025.png)
+## Day 25 - 25 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-25_ML_025.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-25_ML_025.png)
 
 ---
 
-## Day 26 - 05 August 2026
-![SQL Output](screenshots/2026-08-05_Day026.png)
+## Day 26 - 26 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-26_ML_026.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-26_ML_026.png)
 
 ---
 
-## Day 27 - 06 August 2026
-![SQL Output](screenshots/2026-08-06_Day027.png)
+## Day 27 - 27 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-27_ML_027.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-27_ML_027.png)
 
 ---
 
-## Day 28 - 07 August 2026
-![SQL Output](screenshots/2026-08-07_Day028.png)
+## Day 28 - 28 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-28_ML_028.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-28_ML_028.png)
 
 ---
 
-## Day 29 - 08 August 2026
-![SQL Output](screenshots/2026-08-08_Day029.png)
+## Day 29 - 29 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-29_ML_029.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-29_ML_029.png)
 
 ---
 
-## Day 30 - 09 August 2026
-![SQL Output](screenshots/2026-08-09_Day030.png)
+## Day 30 - 30 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-30_ML_030.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-30_ML_030.png)
 
 ---
 
-## Day 31 - 10 August 2026
-![SQL Output](screenshots/2026-08-10_Day031.png)
+## Day 31 - 31 May 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-05-31_ML_031.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-05-31_ML_031.png)
 
 ---
 
-## Day 32 - 11 August 2026
-![SQL Output](screenshots/2026-08-11_Day032.png)
+## Day 32 - 01 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-01_ML_032.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-01_ML_032.png)
 
 ---
 
-## Day 33 - 12 August 2026
-![SQL Output](screenshots/2026-08-12_Day033.png)
+## Day 33 - 02 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-02_ML_033.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-02_ML_033.png)
 
 ---
 
-## Day 34 - 13 August 2026
-![SQL Output](screenshots/2026-08-13_Day034.png)
+## Day 34 - 03 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-03_ML_034.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-03_ML_034.png)
 
 ---
 
-## Day 35 - 14 August 2026
-![SQL Output](screenshots/2026-08-14_Day035.png)
+## Day 35 - 04 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-04_ML_035.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-04_ML_035.png)
 
 ---
 
-## Day 36 - 15 August 2026
-![SQL Output](screenshots/2026-08-15_Day036.png)
+## Day 36 - 05 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-05_ML_036.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-05_ML_036.png)
 
 ---
 
-## Day 37 - 16 August 2026
-![SQL Output](screenshots/2026-08-16_Day037.png)
+## Day 37 - 06 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-06_ML_037.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-06_ML_037.png)
 
 ---
 
-## Day 38 - 17 August 2026
-![SQL Output](screenshots/2026-08-17_Day038.png)
+## Day 38 - 07 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-07_ML_038.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-07_ML_038.png)
 
 ---
 
-## Day 39 - 18 August 2026
-![SQL Output](screenshots/2026-08-18_Day039.png)
+## Day 39 - 08 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-08_ML_039.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-08_ML_039.png)
 
 ---
 
-## Day 40 - 19 August 2026
-![SQL Output](screenshots/2026-08-19_Day040.png)
+## Day 40 - 09 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-09_ML_040.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-09_ML_040.png)
 
 ---
 
-## Day 41 - 20 August 2026
-![SQL Output](screenshots/2026-08-20_Day041.png)
+## Day 41 - 10 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-10_ML_041.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-10_ML_041.png)
 
 ---
 
-## Day 42 - 21 August 2026
-![SQL Output](screenshots/2026-08-21_Day042.png)
+## Day 42 - 11 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-11_ML_042.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-11_ML_042.png)
 
 ---
 
-## Day 43 - 22 August 2026
-![SQL Output](screenshots/2026-08-22_Day043.png)
+## Day 43 - 12 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-12_ML_043.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-12_ML_043.png)
 
 ---
 
-## Day 44 - 23 August 2026
-![SQL Output](screenshots/2026-08-23_Day044.png)
+## Day 44 - 13 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-13_ML_044.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-13_ML_044.png)
 
 ---
 
-## Day 45 - 24 August 2026
-![SQL Output](screenshots/2026-08-24_Day045.png)
+## Day 45 - 14 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-14_ML_045.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-14_ML_045.png)
 
 ---
 
-## Day 46 - 25 August 2026
-![SQL Output](screenshots/2026-08-25_Day046.png)
+## Day 46 - 15 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-15_ML_046.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-15_ML_046.png)
 
 ---
 
-## Day 47 - 26 August 2026
-![SQL Output](screenshots/2026-08-26_Day047.png)
+## Day 47 - 16 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-16_ML_047.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-16_ML_047.png)
 
 ---
 
-## Day 48 - 27 August 2026
-![SQL Output](screenshots/2026-08-27_Day048.png)
+## Day 48 - 17 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-17_ML_048.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-17_ML_048.png)
 
 ---
 
-## Day 49 - 28 August 2026
-![SQL Output](screenshots/2026-08-28_Day049.png)
+## Day 49 - 18 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-18_ML_049.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-18_ML_049.png)
 
 ---
 
-## Day 50 - 29 August 2026
-![SQL Output](screenshots/2026-08-29_Day050.png)
+## Day 50 - 19 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-19_ML_050.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-19_ML_050.png)
 
 ---
 
-## Day 51 - 30 August 2026
-![SQL Output](screenshots/2026-08-30_Day051.png)
+## Day 51 - 20 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-20_ML_051.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-20_ML_051.png)
 
 ---
 
-## Day 52 - 31 August 2026
-![SQL Output](screenshots/2026-08-31_Day052.png)
+## Day 52 - 21 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-21_ML_052.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-21_ML_052.png)
 
 ---
 
-## Day 53 - 01 September 2026
-![SQL Output](screenshots/2026-09-01_Day053.png)
+## Day 53 - 22 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-22_ML_053.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-22_ML_053.png)
 
 ---
 
-## Day 54 - 02 September 2026
-![SQL Output](screenshots/2026-09-02_Day054.png)
+## Day 54 - 23 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-23_ML_054.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-23_ML_054.png)
 
 ---
 
-## Day 55 - 03 September 2026
-![SQL Output](screenshots/2026-09-03_Day055.png)
+## Day 55 - 24 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-24_ML_055.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-24_ML_055.png)
 
 ---
 
-## Day 56 - 04 September 2026
-![SQL Output](screenshots/2026-09-04_Day056.png)
+## Day 56 - 25 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-25_ML_056.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-25_ML_056.png)
 
 ---
 
-## Day 57 - 05 September 2026
-![SQL Output](screenshots/2026-09-05_Day057.png)
+## Day 57 - 26 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-26_ML_057.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-26_ML_057.png)
 
 ---
 
-## Day 58 - 06 September 2026
-![SQL Output](screenshots/2026-09-06_Day058.png)
+## Day 58 - 27 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-27_ML_058.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-27_ML_058.png)
 
 ---
 
-## Day 59 - 07 September 2026
-![SQL Output](screenshots/2026-09-07_Day059.png)
+## Day 59 - 28 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-28_ML_059.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-28_ML_059.png)
 
 ---
 
-## Day 60 - 08 September 2026
-![SQL Output](screenshots/2026-09-08_Day060.png)
+## Day 60 - 29 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-29_ML_060.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-29_ML_060.png)
 
 ---
 
-## Day 61 - 09 September 2026
-![SQL Output](screenshots/2026-09-09_Day061.png)
+## Day 61 - 30 June 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-06-30_ML_061.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-06-30_ML_061.png)
 
 ---
 
-## Day 62 - 10 September 2026
-![SQL Output](screenshots/2026-09-10_Day062.png)
+## Day 62 - 01 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-01_ML_062.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-01_ML_062.png)
 
 ---
 
-## Day 63 - 11 September 2026
-![SQL Output](screenshots/2026-09-11_Day063.png)
+## Day 63 - 02 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-02_ML_063.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-02_ML_063.png)
 
 ---
 
-## Day 64 - 12 September 2026
-![SQL Output](screenshots/2026-09-12_Day064.png)
+## Day 64 - 03 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-03_ML_064.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-03_ML_064.png)
 
 ---
 
-## Day 65 - 13 September 2026
-![SQL Output](screenshots/2026-09-13_Day065.png)
+## Day 65 - 04 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-04_ML_065.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-04_ML_065.png)
 
 ---
 
-## Day 66 - 14 September 2026
-![SQL Output](screenshots/2026-09-14_Day066.png)
+## Day 66 - 05 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-05_ML_066.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-05_ML_066.png)
 
 ---
 
-## Day 67 - 15 September 2026
-![SQL Output](screenshots/2026-09-15_Day067.png)
+## Day 67 - 06 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-06_ML_067.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-06_ML_067.png)
 
 ---
 
-## Day 68 - 16 September 2026
-![SQL Output](screenshots/2026-09-16_Day068.png)
+## Day 68 - 07 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-07_ML_068.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-07_ML_068.png)
 
 ---
 
-## Day 69 - 17 September 2026
-![SQL Output](screenshots/2026-09-17_Day069.png)
+## Day 69 - 08 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-08_ML_069.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-08_ML_069.png)
 
 ---
 
-## Day 70 - 18 September 2026
-![SQL Output](screenshots/2026-09-18_Day070.png)
+## Day 70 - 09 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-09_ML_070.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-09_ML_070.png)
 
 ---
 
-## Day 71 - 19 September 2026
-![SQL Output](screenshots/2026-09-19_Day071.png)
+## Day 71 - 10 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-10_ML_071.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-10_ML_071.png)
 
 ---
 
-## Day 72 - 20 September 2026
-![SQL Output](screenshots/2026-09-20_Day072.png)
+## Day 72 - 11 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-11_ML_072.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-11_ML_072.png)
 
 ---
 
-## Day 73 - 21 September 2026
-![SQL Output](screenshots/2026-09-21_Day073.png)
+## Day 73 - 12 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-12_ML_073.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-12_ML_073.png)
 
 ---
 
-## Day 74 - 22 September 2026
-![SQL Output](screenshots/2026-09-22_Day074.png)
+## Day 74 - 13 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-13_ML_074.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-13_ML_074.png)
 
 ---
 
-## Day 75 - 23 September 2026
-![SQL Output](screenshots/2026-09-23_Day075.png)
+## Day 75 - 14 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-14_ML_075.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-14_ML_075.png)
 
 ---
 
-## Day 76 - 24 September 2026
-![SQL Output](screenshots/2026-09-24_Day076.png)
+## Day 76 - 15 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-15_ML_076.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-15_ML_076.png)
 
 ---
 
-## Day 77 - 25 September 2026
-![SQL Output](screenshots/2026-09-25_Day077.png)
+## Day 77 - 16 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-16_ML_077.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-16_ML_077.png)
 
 ---
 
-## Day 78 - 26 September 2026
-![SQL Output](screenshots/2026-09-26_Day078.png)
+## Day 78 - 17 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-17_ML_078.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-17_ML_078.png)
 
 ---
 
-## Day 79 - 27 September 2026
-![SQL Output](screenshots/2026-09-27_Day079.png)
+## Day 79 - 18 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-18_ML_079.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-18_ML_079.png)
 
 ---
 
-## Day 80 - 28 September 2026
-![SQL Output](screenshots/2026-09-28_Day080.png)
+## Day 80 - 19 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-19_ML_080.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-19_ML_080.png)
 
 ---
 
-## Day 81 - 29 September 2026
-![SQL Output](screenshots/2026-09-29_Day081.png)
+## Day 81 - 20 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-20_ML_081.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-20_ML_081.png)
 
 ---
 
-## Day 82 - 30 September 2026
-![SQL Output](screenshots/2026-09-30_Day082.png)
+## Day 82 - 21 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-21_ML_082.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-21_ML_082.png)
 
 ---
 
-## Day 83 - 01 October 2026
-![SQL Output](screenshots/2026-10-01_Day083.png)
+## Day 83 - 22 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-22_ML_083.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-22_ML_083.png)
 
 ---
 
-## Day 84 - 02 October 2026
-![SQL Output](screenshots/2026-10-02_Day084.png)
+## Day 84 - 23 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-23_ML_084.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-23_ML_084.png)
 
 ---
 
-## Day 85 - 03 October 2026
-![SQL Output](screenshots/2026-10-03_Day085.png)
+## Day 85 - 24 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-24_ML_085.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-24_ML_085.png)
 
 ---
 
-## Day 86 - 04 October 2026
-![SQL Output](screenshots/2026-10-04_Day086.png)
+## Day 86 - 25 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-25_ML_086.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-25_ML_086.png)
 
 ---
 
-## Day 87 - 05 October 2026
-![SQL Output](screenshots/2026-10-05_Day087.png)
+## Day 87 - 26 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-26_ML_087.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-26_ML_087.png)
 
 ---
 
-## Day 88 - 06 October 2026
-![SQL Output](screenshots/2026-10-06_Day088.png)
+## Day 88 - 27 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-27_ML_088.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-27_ML_088.png)
 
 ---
 
-## Day 89 - 07 October 2026
-![SQL Output](screenshots/2026-10-07_Day089.png)
+## Day 89 - 28 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-28_ML_089.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-28_ML_089.png)
 
 ---
 
-## Day 90 - 08 October 2026
-![SQL Output](screenshots/2026-10-08_Day090.png)
+## Day 90 - 29 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-29_ML_090.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-29_ML_090.png)
 
 ---
 
-## Day 91 - 09 October 2026
-![SQL Output](screenshots/2026-10-09_Day091.png)
+## Day 91 - 30 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-30_ML_091.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-30_ML_091.png)
 
 ---
 
-## Day 92 - 10 October 2026
-![SQL Output](screenshots/2026-10-10_Day092.png)
+## Day 92 - 31 July 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-07-31_ML_092.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-07-31_ML_092.png)
 
 ---
 
-## Day 93 - 11 October 2026
-![SQL Output](screenshots/2026-10-11_Day093.png)
+## Day 93 - 01 August 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-08-01_ML_093.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-08-01_ML_093.png)
 
 ---
 
-## Day 94 - 12 October 2026
-![SQL Output](screenshots/2026-10-12_Day094.png)
+## Day 94 - 02 August 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-08-02_ML_094.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-08-02_ML_094.png)
 
 ---
 
-## Day 95 - 13 October 2026
-![SQL Output](screenshots/2026-10-13_Day095.png)
+## Day 95 - 03 August 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-08-03_ML_095.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-08-03_ML_095.png)
 
 ---
 
-## Day 96 - 14 October 2026
-![SQL Output](screenshots/2026-10-14_Day096.png)
+## Day 96 - 04 August 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-08-04_ML_096.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-08-04_ML_096.png)
 
 ---
 
-## Day 97 - 15 October 2026
-![SQL Output](screenshots/2026-10-15_Day097.png)
+## Day 97 - 05 August 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-08-05_ML_097.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-08-05_ML_097.png)
 
 ---
 
-## Day 98 - 16 October 2026
-![SQL Output](screenshots/2026-10-16_Day098.png)
+## Day 98 - 06 August 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-08-06_ML_098.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-08-06_ML_098.png)
 
 ---
 
-## Day 99 - 17 October 2026
-![SQL Output](screenshots/2026-10-17_Day099.png)
+## Day 99 - 07 August 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-08-07_ML_099.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-08-07_ML_099.png)
 
 ---
 
-## Day 100 - 18 October 2026
-![SQL Output](screenshots/2026-10-18_Day100.png)
+## Day 100 - 08 August 2026
+### 🔹 Jupyter Notebook
+[Open Notebook](Jupyter_Notebook/2026-08-08_ML_100.ipynb)
+### 🔹 Output Screenshot
+![ML Output](ML_Screenshot/2026-08-08_ML_100.png)
 
 ---
 
 
-## 🎯 Goal
-Stay consistent with daily SQL practice, sharpen query-writing skills (joins, window functions, aggregations, subqueries), and build a public, verifiable record of progress.
+## 🛠️ Tools & Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+## 🎯 Challenge Goals
+- Build consistency in Machine Learning practice
+- Improve problem-solving skills
+- Create real-world ML mini projects
+- Build a strong GitHub portfolio
+- Prepare for Data Analyst & ML roles
 
 ## 🔗 Connect
 Follow along with the daily progress — feedback and suggestions are always welcome!
