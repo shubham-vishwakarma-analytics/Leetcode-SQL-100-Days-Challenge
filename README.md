@@ -6,7 +6,7 @@ Solving **one LeetCode SQL problem every day for 100 days** and uploading the ac
 |---|---|
 | 📅 **Start Date** | 11 July 2026 |
 | 🏁 **End Date** | 18 October 2026 |
-| 📌 **Platform** | [LeetCode](https://leetcode.com/) |
+| 📌 **Platform** | [LeetCode](https://leetcode.com/u/shubham-vishwakarma-analytics/) |
 | 📸 **Proof** | One screenshot per day (accepted submission) |
 
 ---
